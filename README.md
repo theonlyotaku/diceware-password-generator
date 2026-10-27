@@ -1,4 +1,3 @@
-# diceware-password-generator
 
 simple cryptographically secure diceware password generator written in python using the secrets module
 
